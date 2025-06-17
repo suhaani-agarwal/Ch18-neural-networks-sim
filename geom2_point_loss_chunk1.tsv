@@ -1,0 +1,9 @@
+fill	y	x	showSelected1	PANEL
+#00BFC4	0.329800374984773	1000	validation	1
+#F8766D	0.414175127244915	1000	subtrain	1
+#00BFC4	0.140214159848147	617	validation	2
+#F8766D	0.0340329486293483	999	subtrain	2
+#00BFC4	8	8	validation	3
+#F8766D	18	6	subtrain	3
+#00BFC4	6	34	validation	4
+#F8766D	0	369	subtrain	4
